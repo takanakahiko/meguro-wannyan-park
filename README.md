@@ -1,5 +1,9 @@
 # meguro-wannyan-park
 
+<div align="center">
+  <img src="https://github.com/takanakahiko/meguro-wannyan-park/blob/main/static/logo.png" width="400" alt="logo">
+</div>
+
 ## Build Setup
 
 ```bash
