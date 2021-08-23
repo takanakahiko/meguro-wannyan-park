@@ -4,6 +4,8 @@
   <img src="https://github.com/takanakahiko/meguro-wannyan-park/blob/main/static/logo.png" width="400" alt="logo">
 </div>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2335f483-26db-4a10-a87c-043a7f3911e1/deploy-status)](https://app.netlify.com/sites/meguro-wannyan-park/deploys)
+
 ## Build Setup
 
 ```bash
